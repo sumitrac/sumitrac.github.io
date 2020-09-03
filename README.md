@@ -1,3 +1,3 @@
 ## Personal Portfollio 
 
-## Tech Stack: Html, CSS, JS
+### Tech Stack: Html, CSS, JS
